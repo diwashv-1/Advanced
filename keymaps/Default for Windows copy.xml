@@ -1,0 +1,11 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="TogglePowerSave">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
