@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/kshvkndl/YojanaByabasthapanPranali.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/abii19/rehablitation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Soul Shadow\PhpstormProjects" />
+    <option name="cloneParentDir" value="D:\laragon" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
